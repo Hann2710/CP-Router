@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.starss {
+  margin-top: 10px;
+}
+.NavBar {
+  justify-content: space-between;
+}
+.movielist {
+  display: flex;
+  flex-wrap: wrap;
+}
